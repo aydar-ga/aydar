@@ -1,21 +1,19 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Aydar Gazizullin",
+  "name": "Aydar Gazizullin",
+  "ascii": "aydar",
+  "role": "QA Automation Engineer",
+  "location": "Remote",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "aydar-ga",
+    "linkedin": "agazizullin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "ayd.gazizullin{at gmail dot com}",
+  "ps1_hostname": "aydar's_page",
+  "ps1_username": "welcome",
+  "repo": "",
+  "resume_url": "",
   "colors": {
     "light": {
       "background": "#FBF1C9",
@@ -27,7 +25,7 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
+      "background": "#1a1a1a",
       "foreground": "#E5E9F0",
       "yellow": "#5E81AC",
       "green": "#A3BE8C",
